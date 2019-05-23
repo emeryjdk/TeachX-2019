@@ -1,0 +1,47 @@
+\documentclass[10pt,oneside]{exam}   
+\usepackage{jde_course}
+\usepackage[]{media9}
+\usepackage{float}
+	\floatstyle{plaintop}
+	\restylefloat{table} %Table captions on top.
+%\setmainfont{AkkuratPro-Regular}
+\newfontfamily\NUBrand{Periodico Display}
+\newfontfamily\NUBrandTwoLight{Campton Light}
+\newfontfamily\NUBrandTwo{Campton Medium}
+
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[percent]{overpic}
+
+\pagestyle{headandfoot}
+	\header{\footnotesize\sffamily{\NUBrand{2017-2018 Provost's Fellowship for Digital Learning  v0.1}}}{}{\footnotesize \sffamily {\NUBrand{Summer$|$17}}}
+	\firstpageheadrule
+	\runningheadrule
+	\footer{\footnotesize \sffamily {\NUBrand{\textcolor{NUpurp120}{Northwestern $|$ Materials Science and Engineering}}}}{}{\footnotesize \sffamily {\NUBrand{\thepage}}}
+	\firstpagefootrule
+	\runningfootrule
+
+
+\begin{document}
+
+\section*{Load the PRC File!}
+
+
+	\begin{figure}[H]
+		\centering
+		\includemedia[
+		label=BCC,
+		width=0.5\linewidth,
+		height=0.5\linewidth,
+		activate=pageopen,
+		3Dmenu,
+		add3Djscript=asylabels.js, %Allows for bilboarding
+		add3Djscript=3Dspintool.js, %
+		3Dviews=SCviews.view,
+		]{}{AsymptoteTest.prc} %BCC.prc
+\caption{A test 3D file!}
+		\label{fig:TestAsy}
+	\end{figure}
+
+
+\end{document}

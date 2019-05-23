@@ -1,0 +1,528 @@
+SyncTeX Version:1
+Input:1:C:\Users\jde621\Documents\Northwestern-Lecturer\Travel\2019 TeachX\TeachX-2019\Asymptote Test\AsymptoteTexBuild.tex
+Input:2:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\exam\exam.cls
+Input:3:C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+Input:4:C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+Input:5:C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+Input:6:C:/Local TeX Files\tex\latex\misc\jde_course.sty
+Input:7:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\ulem\ulem.sty
+Input:8:C:\Program Files\MiKTeX 2.9\tex\latex\xltxtra\xltxtra.sty
+Input:9:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+Input:10:C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+Input:11:C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty
+Input:12:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xparse\xparse.sty
+Input:13:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3.sty
+Input:14:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3-code.tex
+Input:15:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3xdvipdfmx.def
+Input:16:C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec-xetex.sty
+Input:17:C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+Input:18:C:\Program Files\MiKTeX 2.9\tex\latex\base\tuenc.def
+Input:19:C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.cfg
+Input:20:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\realscripts\realscripts.sty
+Input:21:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\metalogo\metalogo.sty
+Input:22:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+Input:23:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+Input:24:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+Input:25:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+Input:26:C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+Input:27:C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\xetex.def
+Input:28:C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+Input:29:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\sectsty\sectsty.sty
+Input:30:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\datetime\datetime.sty
+Input:31:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Input:32:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fmtcount\fmtcount.sty
+Input:33:C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+Input:34:C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+Input:35:C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+Input:36:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fmtcount\fcprefix.sty
+Input:37:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fmtcount\fcnumparser.sty
+Input:38:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+Input:39:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\datetime\datetime-defaults.sty
+Input:40:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\datenumber\datenumber.sty
+Input:41:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\datenumber\datenumberUSenglish.ldf
+Input:42:C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
+Input:43:C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
+Input:44:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grffile.sty
+Input:45:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+Input:46:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+Input:47:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+Input:48:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+Input:49:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+Input:50:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+Input:51:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+Input:52:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Input:53:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Input:54:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datatool.sty
+Input:55:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\xfor\xfor.sty
+Input:56:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\substr\substr.sty
+Input:57:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datatool-base.sty
+Input:58:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+Input:59:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+Input:60:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+Input:61:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+Input:62:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datatool-fp.sty
+Input:63:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp.sty
+Input:64:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\defpattern.sty
+Input:65:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-basic.sty
+Input:66:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-addons.sty
+Input:67:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-snap.sty
+Input:68:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-exp.sty
+Input:69:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-trigo.sty
+Input:70:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-pas.sty
+Input:71:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-random.sty
+Input:72:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eqn.sty
+Input:73:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-upn.sty
+Input:74:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eval.sty
+Input:75:C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+Input:76:C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+Input:77:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Input:78:C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+Input:79:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Input:80:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def
+Input:81:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\soul\soul.sty
+Input:82:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
+Input:83:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
+Input:84:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\parskip\parskip.sty
+Input:85:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+Input:86:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+Input:87:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+Input:88:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+Input:89:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+Input:90:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+Input:91:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+Input:92:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hxetex.def
+Input:93:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def
+Input:94:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty
+Input:95:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+Input:96:C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+Input:97:C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg
+Input:98:C:\Program Files\MiKTeX 2.9\tex\latex\base\fix-cm.sty
+Input:99:C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
+Input:100:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\vwcol\vwcol.sty
+Input:101:C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+Input:102:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\environ\environ.sty
+Input:103:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\trimspaces\trimspaces.sty
+Input:104:C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty
+Input:105:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xfrac\xfrac.sty
+Input:106:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+Input:107:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xtemplate\xtemplate.sty
+Input:108:C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty
+Input:109:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mathtools.sty
+Input:110:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mhsetup.sty
+Input:111:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\mhchem\mhchem.sty
+Input:112:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\chemgreek\chemgreek.sty
+Input:113:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+Input:114:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+Input:115:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\arydshln\arydshln.sty
+Input:116:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\cancel\cancel.sty
+Input:117:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\was\upgreek.sty
+Input:118:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pbox\pbox.sty
+Input:119:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\needspace\needspace.sty
+Input:120:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\units\units.sty
+Input:121:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\units\nicefrac.sty
+Input:122:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\unicode-math\unicode-math.sty
+Input:123:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\unicode-math\unicode-math-xetex.sty
+Input:124:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\filehook\filehook.sty
+Input:125:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\unicode-math\unicode-math-table.tex
+Input:126:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\adforn\adforn.sty
+Input:127:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty
+Input:128:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd
+Input:129:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd
+Input:130:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\adforn\uornementsadf.fd
+Input:131:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjustbox.sty
+Input:132:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjcalc.sty
+Input:133:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\trimclip.sty
+Input:134:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\collectbox\collectbox.sty
+Input:135:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\tc-xetex.def
+Input:136:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\ifoddpage\ifoddpage.sty
+Input:137:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\varwidth\varwidth.sty
+Input:138:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+Input:139:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+Input:140:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\ppxetex.def
+Input:141:C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
+Input:142:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
+Input:143:C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty
+Input:144:C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+Input:145:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Input:146:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\marginnote\marginnote.sty
+Input:147:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Input:148:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\mdwtools\mdwlist.sty
+Input:149:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\sidecap\sidecap.sty
+Input:150:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\verbatimbox\verbatimbox.sty
+Input:151:C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+Input:152:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\readarray\readarray.sty
+Input:153:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\listofitems\listofitems.sty
+Input:154:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\listofitems\listofitems.tex
+Input:155:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty
+Input:156:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Input:157:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\media9\media9.sty
+Input:158:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\media9\pdfbase.sty
+Input:159:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\ocgx2\ocgbase.sty
+Input:160:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Input:161:C:\Program Files\MiKTeX 2.9\tex\latex\overpic\overpic.sty
+Input:162:C:\Program Files\MiKTeX 2.9\tex\latex\eepic\epic.sty
+Input:163:C:\Users\jde621\Documents\Northwestern-Lecturer\Travel\2019 TeachX\TeachX-2019\Asymptote Test\AsymptoteTexBuild.aux
+Input:164:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\fmtcount\fc-english.def
+Input:165:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+Input:166:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+Input:167:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty
+Input:168:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty
+Input:169:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+Input:170:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+Input:171:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+Input:172:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+Input:173:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+Input:174:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+Input:175:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Input:176:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+Input:177:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+Input:178:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+Input:179:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Input:180:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+Input:181:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+Input:182:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+Input:183:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-xetex.def
+Input:184:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-dvipdfmx.def
+Input:185:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+Input:186:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+Input:187:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+Input:188:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Input:189:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:190:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+Input:191:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+Input:192:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+Input:193:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+Input:194:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+Input:195:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+Input:196:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+Input:197:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+Input:198:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+Input:199:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+Input:200:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+Input:201:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+Input:202:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+Input:203:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+Input:204:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+Input:205:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+Input:206:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+Input:207:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+Input:208:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+Input:209:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+Input:210:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+Input:211:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+Input:212:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+Input:213:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+Input:214:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+Input:215:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+Input:216:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+Input:217:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+Input:218:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+Input:219:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+Input:220:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+Input:221:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Input:222:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Input:223:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+Input:224:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+Input:225:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+Input:226:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+Input:227:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:228:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.code.tex
+Input:229:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:230:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Input:231:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+Input:232:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+Input:233:C:\Users\jde621\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+Input:234:C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+Input:235:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+Input:236:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+Input:237:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def
+Output:pdf
+Magnification:1000
+Unit:1
+X Offset:0
+Y Offset:0
+Content:
+!19891
+{1
+[1,47:4736287,49263412:30785865,44527125,0
+(1,47:4736287,4736287:0,0,0
+)
+(1,47:4736287,4736287:0,0,0
+[1,47:0,4736287:30785865,0,0
+(1,47:0,0:30785865,0,0
+h1,47:0,0:0,0,0
+(1,47:0,0:0,0,0
+(1,47:0,0:0,0,0
+g1,47:0,0
+(1,47:0,0:0,0,52099153
+(1,47:0,52099153:0,0,0
+g1,47:0,52099153
+)
+)
+g1,47:0,0
+)
+)
+k1,47:30785864,0:30785864
+g1,47:30785864,0
+)
+]
+)
+[1,47:4736287,4736287:0,0,0
+(1,47:4736287,2704426:0,0,0
+k1,47:4736287,2704426:65781
+)
+]
+[1,47:4736287,49263412:30785865,44527125,0
+(1,47:4736287,4736287:0,0,0
+)
+[1,47:4736287,49263412:30785865,46493205,0
+[1,47:4736287,3753247:30785865,983040,0
+(1,47:4736287,3753247:30785865,983040,0
+(1,47:4736287,3753247:30785865,983040,0
+[1,47:4736287,3753247:30785865,983040,0
+(1,47:4736287,3491101:30785865,550500,235932
+(1,47:4736287,3491101:0,435812,186779
+[1,47:4736287,3491101:30785865,435812,186779
+(1,47:4736287,3491101:30785865,435812,186779
+h1,47:4736287,3491101:0,0,0
+g1,47:7055737,3491101
+g1,47:9322234,3491101
+g1,47:12031754,3491101
+g1,47:12836012,3491101
+g1,47:14555152,3491101
+g1,47:16815882,3491101
+r1,47:17710842,3491101:0,622591,186779
+k1,47:26616497,3491101:8905655
+k1,47:35522152,3491101:8905655
+)
+]
+k1,47:4736288,3491101:-30785864
+)
+g1,47:4736287,3491101
+[1,47:4736287,3491101:30785865,550500,235932
+(1,47:4736287,3491101:30785865,550500,235932
+k1,47:20129219,3491101:15392932
+h1,47:20129219,3491101:0,0,0
+r1,47:20129219,3491101:0,786432,235932
+g1,47:20129219,3491101
+k1,47:35522151,3491101:15392932
+)
+]
+g1,47:35522152,3491101
+(1,47:35522152,3491101:0,435812,186779
+k1,47:4736288,3491101:-30785864
+[1,47:4736288,3491101:30785865,435812,186779
+(1,47:4736288,3491101:30785865,435812,186779
+k1,47:32860344,3491101:28124056
+h1,47:32860344,3491101:0,0,0
+$1,47:34908213,3491101
+$1,47:35053965,3491101
+r1,47:35522154,3491101:0,622591,186779
+g1,47:35522154,3491101
+g1,47:35522154,3491101
+)
+]
+)
+)
+]
+)
+)
+]
+[1,47:4736287,47362868:30785865,42626581,0
+(1,47:4736287,47362868:30785865,42626581,0
+(1,47:4736287,47362868:0,0,0
+g1,47:4736287,47362868
+)
+[1,47:4736287,47362868:30785865,42626581,0
+(1,27:4736287,5402552:30785865,666265,11324
+(1,27:4736287,5402552:0,0,0
+g1,27:4736287,5402552
+)
+(1,27:4736287,5402552:0,0,0
+(1,27:4736287,5402552:0,0,0
+(1,27:4736287,4222904:0,0,0
+)
+)
+g1,27:4736287,5402552
+)
+g1,27:7365485,5402552
+g1,27:9206679,5402552
+g1,27:11816059,5402552
+k1,27:35522152,5402552:21640294
+g1,27:35522152,5402552
+)
+[1,44:4736287,23357010:30785865,16834724,0
+[1,44:4736287,23357010:30785865,16834724,0
+(1,42:4736287,21915218:30785865,15392932,0
+k1,42:12432754,21915218:7696467
+h1,41:12432754,21915218:0,0,0
+(1,41:12432754,21915218:0,0,0
+(1,41:12432754,21915218:0,0,0
+g1,41:12432754,21915218
+(1,41:12432754,21915218:0,65536,0
+(1,41:12432754,21915218:0,65536,0
+(1,41:12432754,21915218:65536,65536,0
+h1,41:12432754,21915218:65536,65536,0
+)
+k1,41:12432754,21915218:-65536
+)
+)
+g1,41:12432754,21915218
+)
+)
+(1,41:12432754,21915218:0,15392932,0
+(1,41:12432754,21915218:15392932,15392932,0
+(1,41:12432754,21915218:15392932,15392932,0
+(1,41:12432754,21915218:15392932,15392932,0
+(1,41:12432754,21915218:0,15392932,0
+(1,41:12432754,21915218:15392932,15392932,0
+)
+k1,41:12432754,21915218:-15392932
+)
+)
+g1,41:27825686,21915218
+)
+)
+k1,41:12432754,21915218:-15392932
+)
+(1,41:12432754,21915218:15392932,15392932,0
+[1,41:12432754,21915218:15392932,15392932,0
+(1,41:12432754,21915218:15392932,2359296,0
+(1,41:12432754,21915218:15392932,2359296,0
+g1,41:20129220,21915218
+(1,41:20129220,20735570:0,0,0
+(1,41:20129220,20735570:0,0,0
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+g1,41:20129220,20735570
+)
+g1,41:20129220,20735570
+)
+)
+)
+]
+)
+g1,42:27825686,21915218
+k1,42:35522152,21915218:7696466
+)
+(1,42:4736287,23121078:30785865,550500,235932
+h1,42:4736287,23121078:0,0,0
+g1,42:4736287,23121078
+[1,42:4736287,23121078:30785865,550500,235932
+(1,42:4736287,23121078:30785865,550500,235932
+k1,42:16404153,23121078:11667866
+h1,42:16404153,23121078:0,0,0
+g1,42:18899109,23121078
+g1,42:19800884,23121078
+r1,42:19800884,23121078:0,786432,235932
+g1,42:19800884,23121078
+g1,42:20510639,23121078
+g1,42:21787936,23121078
+g1,42:22834546,23121078
+r1,42:23854286,23121078:0,235932,235932
+g1,42:23854286,23121078
+k1,42:35522152,23121078:11667866
+)
+]
+g1,42:35522152,23121078
+g1,42:35522152,23121078
+)
+]
+]
+]
+(1,47:35522152,47362868:0,0,0
+g1,47:35522152,47362868
+)
+)
+]
+(1,47:4736287,49263412:30785865,0,0
+(1,47:4736287,49263412:30785865,0,0
+[1,47:4736287,49263412:30785865,0,0
+(1,47:4736287,49879450:30785865,393216,131072
+(1,47:4736287,49879450:0,393216,131072
+[1,47:4736287,49879450:30785865,393216,131072
+(1,47:4736287,49879450:30785865,393216,131072
+h1,47:4736287,49879450:0,0,0
+g1,47:8148878,49879450
+$1,47:8148878,49879450
+$1,47:8294630,49879450
+g1,47:8404206,49879450
+g1,47:10742006,49879450
+g1,47:12643598,49879450
+g1,47:13661241,49879450
+k1,47:26047645,49879450:9474508
+k1,47:35522153,49879450:9474508
+)
+]
+k1,47:4736288,49879450:-30785864
+)
+k1,47:20129219,49879450:15392932
+v1,47:20129219,49879450:0,0,0
+k1,47:35522151,49879450:15392932
+(1,47:35522151,49879450:0,340263,0
+k1,47:4736287,49879450:-30785864
+[1,47:4736287,49879450:30785865,340263,0
+(1,47:4736287,49879450:30785865,340263,0
+k1,47:35305621,49879450:30569334
+h1,47:35305621,49879450:0,0,0
+g1,47:35522152,49879450
+g1,47:35522152,49879450
+)
+]
+)
+)
+]
+)
+)
+]
+]
+(1,47:4736287,4736287:0,0,0
+[1,47:0,4736287:30785865,0,0
+(1,47:0,0:30785865,0,0
+h1,47:0,0:0,0,0
+(1,47:0,0:0,0,0
+(1,47:0,0:0,0,0
+g1,47:0,0
+(1,47:0,0:0,0,52099153
+(1,47:0,52099153:0,0,0
+g1,47:0,52099153
+)
+)
+g1,47:0,0
+)
+)
+k1,47:30785864,0:30785864
+g1,47:30785864,0
+)
+]
+)
+(1,47:4736287,4736287:0,0,0
+)
+]
+!5997
+}1
+Input:238:C:\Users\jde621\Documents\Northwestern-Lecturer\Travel\2019 TeachX\TeachX-2019\Asymptote Test\AsymptoteTexBuild.aux
+!135
+Postamble:
+Count:279
+!26
+Post scriptum:
